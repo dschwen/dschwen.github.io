@@ -31,6 +31,10 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-gist
+  - jekyll-paginate
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
